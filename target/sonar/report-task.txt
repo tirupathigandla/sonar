@@ -1,0 +1,6 @@
+projectKey=tiru
+serverUrl=http://localhost:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://localhost:9000/dashboard?id=tiru
+ceTaskId=AXD7tl0e7dRXJkcKkpwT
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXD7tl0e7dRXJkcKkpwT
